@@ -5,7 +5,8 @@
   "main": "./public/electron.js",
   "homepage": "./",
   "dependencies": {
-
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,8 +27,6 @@
   ],
   "devDependencies": {
     "electron": "^4.0.8",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4",
     "react-scripts": "2.1.8",
     "electron-builder": "^20.39.0"
   }
